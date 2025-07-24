@@ -66,6 +66,7 @@ Highest-rated outlets: Supermarket Type2
 Tier 2 cities lead in sales volume
 
 📷 Screenshot
+<img width="1531" height="708" alt="image" src="https://github.com/user-attachments/assets/5bdeb696-db6e-4a84-99a0-93224642d6fa" />
 
 
 📚 Tools Used
